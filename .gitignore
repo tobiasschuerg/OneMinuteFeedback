@@ -1,0 +1,6 @@
+# Android Studio:
+local.properties
+*/build/
+*/.idea/workspace.xml 
+*/.idea/tasks.xml
+.gradle/1.6/taskArtifacts/

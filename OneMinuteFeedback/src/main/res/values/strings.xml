@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">One Minute Feedback</string>
+    <string name="question">Question</string>
+    <string name="hint_answer">Your answer</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="message_enter_lecture_id">Enter the id of your lecture:</string>
+    <string name="button_load_lecture">Start</string>
+
+</resources>

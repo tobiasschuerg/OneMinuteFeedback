@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OneMinuteFeedback/OneMinuteFeedback.iml" filepath="$PROJECT_DIR$/OneMinuteFeedback/OneMinuteFeedback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OneMinuteFeedbackProject.iml" filepath="$PROJECT_DIR$/OneMinuteFeedbackProject.iml" />
+    </modules>
+  </component>
+</project>
+
